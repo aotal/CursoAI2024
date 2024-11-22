@@ -6,3 +6,4 @@ Material del curso "Introducció a les oportunitats i perills de la IA en la rec
 
 [Colab](https://colab.research.google.com/drive/1Y1uWnLYlDgnPjJiFSd4FezhonMZkMeK-?usp=sharing)
 [Hugging Face](https://huggingface.co/)
+[NotebookLM](https://notebooklm.google.com/notebook/ff48f946-b763-41ba-9113-fa73ce5ecd0d)
