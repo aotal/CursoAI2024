@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "*Fine-tuning* de LLM en el entorno de las ciencias de la salud"
